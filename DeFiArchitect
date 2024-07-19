@@ -1,0 +1,12 @@
+DeFiArchitect/
+├── scripts/
+│   ├── __init__.py
+│   ├── data_collection.py
+│   ├── protocol_analysis.py
+│   ├── visualization.py
+│   └── main.py
+├── utils/
+│   ├── __init__.py
+│   └── data_utils.py
+├── requirements.txt
+└── README.md
